@@ -1,0 +1,24 @@
+Fecha y hora del reconocimiento: 2024-07-12 19:15:07
+
+space_shuttle: 89.42%
+wall_clock: 2.00%
+radio_telescope: 1.30%
+airship: 0.98%
+corkscrew: 0.49%
+
+Fecha y hora del reconocimiento: 2024-07-12 19:15:48
+
+missile: 68.21%
+projectile: 26.39%
+space_shuttle: 0.77%
+geyser: 0.19%
+obelisk: 0.17%
+
+Fecha y hora del reconocimiento: 2024-07-12 19:54:55
+
+missile: 68.21%
+projectile: 26.39%
+space_shuttle: 0.77%
+geyser: 0.19%
+obelisk: 0.17%
+
